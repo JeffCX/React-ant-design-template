@@ -1,6 +1,6 @@
 {
   "name": "react-ant-design-template",
-  "version": "0.1.0",
+  "version": "0.1",
   "private": true,
   "dependencies": {
     "antd": "^3.23.2",
